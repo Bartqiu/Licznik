@@ -13,4 +13,3 @@ btn2.addEventListener('click', () => {
     counter = 0
     btn1.innerText = 0
 })
-
